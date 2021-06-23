@@ -1,0 +1,28 @@
+{
+    "exchangeRate": [
+        {
+            "baseCurrency": "UAH",
+            "currency": "USD",
+            "purchaseRate": 26.75,
+            "purchaseRateNB": 27.0275,
+            "saleRate": 27.18,
+            "saleRateNB": 27.0275
+        },
+        {
+            "baseCurrency": "UAH",
+            "currency": "EUR",
+            "purchaseRate": 32.35,
+            "purchaseRateNB": 32.7722,
+            "saleRate": 32.95,
+            "saleRateNB": 32.7722
+        },
+        {
+            "baseCurrency": "UAH",
+            "currency": "PLZ",
+            "purchaseRate": 7.05,
+            "purchaseRateNB": 7.2526,
+            "saleRate": 7.35,
+            "saleRateNB": 7.2526
+        }
+    ]
+}
